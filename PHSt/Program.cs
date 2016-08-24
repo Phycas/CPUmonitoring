@@ -31,7 +31,7 @@ namespace PHSt
 
             Console.WriteLine("Loading...");
             voice.Speak("version 0.8", 2);
-            //voice.Speak("I Love you! ", 1);
+            
 
             //Optimize this
             //mounting the server
