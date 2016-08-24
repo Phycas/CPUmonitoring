@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 //using ServerData;
 using System.Net.Sockets;
 using System.IO;
-using System.Runtime.Serialization.Formatters.Binary; //a lot of references for me xd
+using System.Runtime.Serialization.Formatters.Binary; //a lot of references
 using System.Net;
 namespace DataThing
 {
